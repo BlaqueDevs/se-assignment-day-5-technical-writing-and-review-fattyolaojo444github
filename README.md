@@ -2,7 +2,25 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15940568&assignment_repo_type=AssignmentRepo)
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
+Understanding the audience
+Has shown the level of the audience exposure the course of presentation. So it will give the presenter an idea of communication level to use to ensure the audience understands the presentation or communication
+
+
 ## 2. What are some strategies to tailor your content to different audience types?
+What are some strategies to tailor your content to different audience types?
+Know your audience
+Adjust your language
+Create buyer personas
+Solicit feedback
+Test and optimize
+Use personalization
+Conduct audience research
+Optimizing content delivery
+Use relatable references
+Adapt your tone and style
+Follow up with your audience
+Gather and analyze audiennce feedbacks 
+
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
