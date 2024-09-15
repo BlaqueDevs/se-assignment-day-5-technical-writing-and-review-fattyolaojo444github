@@ -33,6 +33,17 @@ III. Audience Feedback
 A third technique for analyzing audience's knowledge level is to collect and analyze their feedback during and after the speech. Various methods, such as polls, quizzes, Q&A sessions, and evaluations can be used to measure their understanding, satisfaction, and engagement with the speech. An online tools, such as Mentimeter or Kahoot, to create and display interactive polls and quizzes that test your audience's knowledge and capture their opinions.
 
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
+This can be achieved through: 
+Clear and concise language
+Alternative text for visuals
+Color contrast considerations
+Providing transcripts and captions 
+Proper heading structure
+User-friendly navigation
+Multimedia optimization.          and 
+Staying up to date with accessibility standards
+
+
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
