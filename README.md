@@ -22,6 +22,16 @@ Follow up with your audience
 Gather and analyze audiennce feedbacks 
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
+This can be done through the following methods:.
+I.  Pre-speech Survey 
+One of the easiest ways to assess the audience's knowledge level is to ask them directly before the speech. Online tools, such as Google Forms or SurveyMonkey can be used to create and distribute a short questionnaire that covers the main topics of the speech. 
+
+II. Audience profiles
+Another technique for analyzing the audience's knowledge level is to create audience profiles based on the research and observation. Audience profiles are summaries of the characteristics, preferences, and behaviors of your target audience.
+
+III. Audience Feedback
+A third technique for analyzing audience's knowledge level is to collect and analyze their feedback during and after the speech. Various methods, such as polls, quizzes, Q&A sessions, and evaluations can be used to measure their understanding, satisfaction, and engagement with the speech. An online tools, such as Mentimeter or Kahoot, to create and display interactive polls and quizzes that test your audience's knowledge and capture their opinions.
+
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
